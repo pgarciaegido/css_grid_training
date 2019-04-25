@@ -9,3 +9,4 @@ Table of contents
 4. Handling items positioning
 5. Quick layouts with template areas
 6. auto-fit, minmax and auto rows
+7. Position elements inside grid column (or row)

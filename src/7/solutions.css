@@ -1,0 +1,17 @@
+.wrapper {
+  display: grid;
+  grid-template: 100px 100px / 100px 100px;
+  grid-gap: 3px;
+  justify-items: center;
+  align-items: center;
+}
+
+.item {
+  width: 50%;
+  height: 50%;
+}
+
+.item:last-child {
+  justify-self: end;
+  align-self: center;
+}
